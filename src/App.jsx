@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { TECollapse, TERipple } from "tw-elements-react";
-import "tw-elements-react/dist/css/tw-elements-react.min.css";
+
 export default function App() {
   const [show, setShow] = useState(false);
 
